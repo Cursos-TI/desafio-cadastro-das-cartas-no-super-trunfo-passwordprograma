@@ -24,6 +24,44 @@ int main(){
     return 0;
 }
 
+int main(){
+    // Carta2
+
+    char estado2;
+    char codigoCarta2;
+    int população;
+    float area;
+    float pib;
+    int pontosturisticos;
+
+    printf("Digite o nome do estado: \n");
+    scanf("%s", &estado2);
+    printf("Digite o codigo: \n");
+    scanf("%s",&codigoCarta2);
+    printf("Digite a população: \n");
+    scanf("%d", &população);
+    printf("Digite a Area: \n");
+    scanf("%f", &area);
+    printf("Digite o Pib: \n");
+    scanf("%f",&pib);
+    printf("Digite os Pontos Turisticos: \n");
+    scanf("%d", &pontosturisticos);
+
+ return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
