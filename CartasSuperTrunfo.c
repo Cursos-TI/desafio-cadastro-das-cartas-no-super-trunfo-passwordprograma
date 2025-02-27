@@ -59,17 +59,10 @@
          printf("PIB: %.2f bilhões de reais\n", pib2);
          printf("Número de pontos turísticos: %d\n", pontosturisticos2);
  
-         
-
-
-
-
-
-
-
+      
 
    return 0;
-
+ }
 
 
 
